@@ -84,7 +84,7 @@ tape('should get stream', function (t) {
     })
 })
 
-tape('should get reverse', function (t) {
+tape('should get reverse', function (t) { 
   var expected = {
     input: 'stringtoreverse',
     output: 'esreverotgnirts'
